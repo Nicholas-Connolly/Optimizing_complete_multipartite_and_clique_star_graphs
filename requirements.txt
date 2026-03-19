@@ -1,0 +1,4 @@
+###### Requirements for Python ######
+networkx==3.4.2
+###### Visualization ######
+matplotlib==3.10.7
